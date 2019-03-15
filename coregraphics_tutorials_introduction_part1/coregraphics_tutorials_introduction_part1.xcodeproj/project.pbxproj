@@ -38,7 +38,7 @@
 		043723C2223BD7250073635A = {
 			isa = PBXGroup;
 			children = (
-				043723CD223BD7250073635A /* coregraphics_tutorials_introduction */,
+				043723CD223BD7250073635A /* coregraphics_tutorials_introduction_part1 */,
 				043723CC223BD7250073635A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		043723CD223BD7250073635A /* coregraphics_tutorials_introduction */ = {
+		043723CD223BD7250073635A /* coregraphics_tutorials_introduction_part1 */ = {
 			isa = PBXGroup;
 			children = (
 				043723E0223BD7660073635A /* views */,
@@ -61,7 +61,7 @@
 				043723D7223BD7290073635A /* LaunchScreen.storyboard */,
 				043723DA223BD7290073635A /* Info.plist */,
 			);
-			path = coregraphics_tutorials_introduction;
+			path = coregraphics_tutorials_introduction_part1;
 			sourceTree = "<group>";
 		};
 		043723E0223BD7660073635A /* views */ = {
@@ -107,7 +107,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 043723C6223BD7250073635A /* Build configuration list for PBXProject "coregraphics_tutorials_introduction" */;
+			buildConfigurationList = 043723C6223BD7250073635A /* Build configuration list for PBXProject "coregraphics_tutorials_introduction_part1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -291,7 +291,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = coregraphics_tutorials_introduction/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/coregraphics_tutorials_introduction_part1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,7 +308,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = coregraphics_tutorials_introduction/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/coregraphics_tutorials_introduction_part1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		043723C6223BD7250073635A /* Build configuration list for PBXProject "coregraphics_tutorials_introduction" */ = {
+		043723C6223BD7250073635A /* Build configuration list for PBXProject "coregraphics_tutorials_introduction_part1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				043723DB223BD7290073635A /* Debug */,
